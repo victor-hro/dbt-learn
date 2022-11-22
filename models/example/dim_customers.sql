@@ -1,3 +1,9 @@
+{{
+    config(
+        materialize="table"
+    )
+}}
+
 with customers as (
 
     select
